@@ -1,2 +1,2 @@
-pip install requests
-pip install bs4
+requests
+bs4
