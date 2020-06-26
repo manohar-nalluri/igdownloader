@@ -8,6 +8,8 @@ by pkg install python
 
 And then pip install requirements.txt
 
+You should make code exicutable by chmod +x igdownloader.py
+
 Then run the code by python igdownloader.py
 
 Booommmmmm!!!!!!!!!
